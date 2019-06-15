@@ -1,0 +1,12 @@
+@media all and (max-width: 991px){
+    .menu_area ul li { display: inline !important;  }
+    body.menu_home .navbar{ background-color: #90778D; } 
+    body.menu_service .navbar{ background-color: #1b4f58; } 
+    body.menu_about .navbar{ background-color: rgb(216, 69, 167); } 
+    body.menu_work .navbar{ background-color: rgb(196, 85, 236); } 
+    body.menu_contacts .navbar{ background-color: rgba(17, 184, 101, 1); } 
+    .navbar {width: 100% !important; margin: 0px !important;}
+}
+@media all and (max-width: 767px){
+    .o_w { text-align: center !important; }
+}
